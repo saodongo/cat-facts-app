@@ -1,0 +1,1 @@
+This app will be used to display images of the cats, like the images and add comments and facts about the cats. You can also remove the cat images from the list. 
